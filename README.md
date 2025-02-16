@@ -1,4 +1,4 @@
-# IBM-water-quality-prediction-Data-Analytics-Project
+# IBM-Water-Quality-Prediction-Data-Analytics-Project
 # Water Quality Prediction - Data Analytics Project
 
 ## Overview
